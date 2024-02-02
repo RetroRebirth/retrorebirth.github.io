@@ -227,6 +227,16 @@ hr {
   background: url("../images/pdf.png") 0 0 no-repeat;
 }
 
+.btn-email .icon {
+  opacity: 0.6;
+  background: url("../images/email.png") 0 0 no-repeat;
+}
+
+.btn-massage .icon {
+  opacity: 0.6;
+  background: url("../images/massage.png") 0 0 no-repeat;
+}
+
 /* Links
    a, a:hover, a:visited
 */
